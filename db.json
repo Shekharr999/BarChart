@@ -2,7 +2,7 @@
   "formName": "Dynamic Form",
   "fileName":"demo.js",
   "apiUrl":"users",
-  "FormFileds": [
+  "FormFileds": [{
       {
           "type": "text",
           "name": "firstName",
@@ -76,5 +76,5 @@
           "validationRequired":true,
           "validationMessage":"File required"
       }
-  ]
+                 }]
 }
